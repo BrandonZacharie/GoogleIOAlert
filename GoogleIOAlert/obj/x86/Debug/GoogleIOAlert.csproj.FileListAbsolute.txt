@@ -1,0 +1,5 @@
+E:\GoogleIOAlert\GoogleIOAlert\bin\Debug\GoogleIOAlert.exe
+E:\GoogleIOAlert\GoogleIOAlert\bin\Debug\GoogleIOAlert.pdb
+E:\GoogleIOAlert\GoogleIOAlert\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GoogleIOAlert\GoogleIOAlert\obj\x86\Debug\GoogleIOAlert.exe
+E:\GoogleIOAlert\GoogleIOAlert\obj\x86\Debug\GoogleIOAlert.pdb
